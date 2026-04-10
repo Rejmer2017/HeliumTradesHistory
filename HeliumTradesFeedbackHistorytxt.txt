@@ -1,7 +1,130 @@
+2024-07-07:web.archive.org is temporary offline:
+
+Rejmer
+on contact
+07.07.2024-07-07
+Dear HeliumTrades-Team,
+
+From https://archive.ph/ZB2Ec or every web.archive-links I clicked at 2024-07-07, the page says:"
+Temporarily Offline
+
+". megalodon.jp or archive.ph are available.
+
+In "https://archive.ph/Qcj4R": "
+How to catch a glimpse of the Milky Way galaxy this summer - Detroit Free Press
+
+Article Bias: Informative, descriptive article on how to see the Milky Way galaxy with a slight promotion of Michigan's dark sky parks", the Article-Bias-description says "slight promotion" without promotion-bias.
+
+Article Text missed: picture-description, "Here's everything you might want to know to catch a glimpse of the Milky Way galaxy.
+How is it possible to see the Milky Way galaxy?
+
+", bold in-between-titles all except one with "
+?
+
+" in their end, article suggestions with and after "More:", "In order to see the Milky Way, you have to eradicate all sources of light, even moonlight.", "Detroit Free Press"'s "News Alerts"-Newsletter-ad, state-park-location-list for avoiding light pollution and seeing the "Milky Way", "You can also use a light pollution map to look for other nearby areas with low light pollution."
+
+Sincerely, Rejmer
+
+Conner Productions
+on Rejmer
+2024-07-08
+Thanks Rejmer,
+
+Previously I wan only looking for <p> text</p> but going forward am including header tags as well.
+
+Conner
+
+Rejmer
+on Conner
+2024-07-08
+Dear HeliumTrades-Team,
+
+It works now.
+
+Sincerely, Rejmer
+
+Conner Productions
+on Rejmer
+2024-07-08
+Thanks Rejmer,
+
+Check out new search by url! I feel like you’ve been looking for this for a while. Just search by url to see if Helium has it’s bias.
+
+Conner
+
+Conner Productions
+on Rejmer
+2025-09-09
+Hi Rejmer,
+
+Just rolled out the “intelligence” meter to judge how intelligent articles/publications are. More data will be included going forward.
+
+Conner
+
+Rejmer
+on Conner
+2025-09-12:
+2025-09-12:
+Dear HeliumTrades-Team,
+
+I tried to save https://heliumtrades.com/media-bias/lew-rockwell yet it says "capture failed because Save Page Now does not have access rights"..."(HTTP status=403)." in "https://megalodon.jp/2025-0913-0539-10/https://web.archive.org:443/save/https://heliumtrades.com/media-bias/lew-rockwell". I also noticed that the bar-color below " 🗽 Libertarian <—> Authoritarian 🚔  " is changing. Does that mean "undetermined importance-scale" of that bias? It's more archive-friendly to have a static color. Either 50% green and 50% red or grey and maybe changing color-scale of importance from (Red > Orange > Yellow > Green) to (Black > Grey > White), but that might be counter-intuitive for the average reader. https://megalodon.jp/2025-0913-0527-54/https://heliumtrades.com:443/media-bias/lew-rockwell doesn't show emojis.
+
+By clicking "🚨   The 9/11 Nightmare Never Ends" in https://megalodon.jp/2025-0913-0527-54/https://heliumtrades.com:443/media-bias/lew-rockwell , it redirects to original page instead the archived one.
+
+Between "More than anything else, that horror from 9/11 haunts me." and "In the first few years after the Islamic terror  " in HeliumTrades, there's no line-break compared to those same statements in https://web.archive.org/web/20250912205204/https://www.lewrockwell.com/2025/09/no_author/the-9-11-nightmare-never-ends/ . HeliumTrades's Article Text ignores line-breaks in the beginning except "This article was
+
+One of the nightmares that", "from 9/11 haunts me.
+
+In the first", yet adds more line-breaks the further one scroll below.
+
+HT's Article Text also repeated the article from LewRockwell.com 2x. One without linebreaks and one with accruate linebreaks. That either shows inconsistencies of what an "Article Text" is or another unknown standard of analyzing the same article in different revisions.
+
+Inside lewrockwell.com , between "As the years went by, those videos disappeared." and "Even during the annual memorials for 9/11, the sight of Americans falling from the sky was gradually obscured" are two spaces "  " meanwhile HT-Article-Text has 1 space " ".
+
+Analyzing "This article was" alone is more useless since it's very vague to process what it means. It's also an incomplete information for HeliumTrades-"Article Text" about https://web.archive.org/web/20250912205204/https://www.lewrockwell.com/2025/09/no_author/the-9-11-nightmare-never-ends/ : "This article was originally published on American Thinker.". It's unfinished.
+
+https://web.archive.org/web/20250912205204/https://www.lewrockwell.com/2025/09/no_author/the-9-11-nightmare-never-ends/ uses one space-gap inside sentences, yet two between finished sentences and finished sequenced paragraphs like "(1) We were in a civilizational war, and (2) militant Islamists were our enemies.". This can be noted my HT-AI as well when fixed, although "Article Text" is just a vague approximation which shows vaguely what HT-AI read with their "eyes" as well.
+
+The "Advertising"-bias might missed "" as an ".img" (BURT'S GOLD PAGE) and one can argue that Political Theatre, LRC Blog, LRC Podcasts with "MORE"-links also counts as advertisement.
+
+I can see how using more philosophical concepts and abstract, metaphorical statements like "Marxist dialectic was in full force" leads to higher intelligence (if rigidly defined). The inclusion of "Marxist" makes it more political. The bias-assessment seems fine for the first heuristically reading of https://web.archive.org/web/20250912205204/https://www.lewrockwell.com/2025/09/no_author/the-9-11-nightmare-never-ends/ .
+
+SIncerely, Rejmer
+
+Conner Productions
+on Rejmer
+2025-09-15
+Thanks Rejmer,
+
+I’ve updated the colors for the bias bars back to their original colors. I’ve also updated the review pages to use a more powerful AI model for analyzing bias going forward.
+
+Conner
+
+Conner Productions
+on Rejmer
+2026-03-20
+Hey Rejmer,
+
+Hope you’re doing well. Take a look at all of the Helium updates next time you get a chance!
+
+Conner
+Rejmer2017
+on Conner
+before 53 Minutes
+2026-04-10: Dear HeliumTrades-Team,
+
+2026.04.10/https://forum.heliumtrades.com/t/understanding-heliums-news-bias/191 needs an update.
+Looking at 2026.04.10/https://heliumtrades.com/sources/ , I like the part of the old version where every website can be seen instead of being scrolled also for compatibility and web-archive-able reasons such as https://megalodon.jp/2026-0411-0402-10/https://heliumtrades.com:443/sources/ crashing when I scroll in my iOS 15.8.7 device, yet that same website working on Android 7. The search-bar is a more efficient, new part and all the biases as far as I noticed is showing.
+https://megalodon.jp/?url=https%3A%2F%2Fheliumtrades.com%2Fmedia-bias%2Fnpr shows "(IMG ONLY: unknown error.)".
+Seeing at 2026.04.10/https://heliumtrades.com/media-bias/helium-trades 's lack of self-description and AI-development in general in combination with increasing source-description-data such as https://heliumtrades.com/media-bias/npr and more AI-generated content-summary being shown in "Bias"-tab instead of raw data of what the AI sees, I wonder how much trust we can place to HeliumTrades-AI, human capabilities in future to judge AIs being more complex than us, their disappeared self-description, even though in their past and their media-bias-profiles, they're self-critical and have enough data to have any description about themselves like in 2026.04.10/https://heliumtrades.com/media-bias/usa-today : "Helium Bias: I over-trust the summaries’ tone labels; might over-attribute bias to monetization cues.  (?)  March 22, 2026" As heliumtrades.com/media-bias/helium-trades came to be, I imagined it roughly as a merged summary with footnotes of all the bias-judgements considering their context that HeliumTrades-AI made about themselves, which is more expensive ideal than reality. Also ideally, a list of all bias-judgements from HeliumTrades-AI about itself in a webpage unfiltered and linked and their name of AI-model. Like Anthropic-AI was used earlier and that AI I called it HeliumTrades-AI can be a vastly different one, yet you can inform me about their state. Or at least being able to search their bias-judgements about themselves instead of News-articles being on top on Relevance: 2026.04.10/https://heliumtrades.com/balanced-news/?q=I+over-trust+the+summaries’+tone+labels%3B+might+over-attribute+bias+to+monetization+cues and 2026.04.10/https://heliumtrades.com/balanced-news/?q=%22I+over-trust+the+summaries’+tone+labels;+might+over-attribute+bias+to+monetization+cues.%22
+
+When the archived links are entirely gone as a function to click at least for non-registered users or not available for bias-summary, then the date and time when the HeliumTrades-AI read that article suffice it.
+
+Overall, progress and more reliance to AIs continues and it's impressive how much data is collected and continuing that mission of assessing biases, reliabilities of articles and other factors relevant to the ideal of truth till this day.
+
+Sincerely, Rejmer
+
 Correction-Combo 3:
-
- 
-
 2024-05-23:contra no-source-doctrine,2024-05-25/26:bias-bars-consistency,prescriptive-marked word but no prescription-bar : 
 Dear HeliumTrades-Team,
 
