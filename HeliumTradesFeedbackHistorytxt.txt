@@ -2,7 +2,7 @@
 
 Rejmer
 on contact
-07.07.2024-07-07
+2024-07-07
 Dear HeliumTrades-Team,
 
 From https://archive.ph/ZB2Ec or every web.archive-links I clicked at 2024-07-07, the page says:"
@@ -122,7 +122,27 @@ When the archived links are entirely gone as a function to click at least for no
 
 Overall, progress and more reliance to AIs continues and it's impressive how much data is collected and continuing that mission of assessing biases, reliabilities of articles and other factors relevant to the ideal of truth till this day.
 
-Sincerely, Rejmer
+Sincerely, Rejmer",
+"
+Conner Productions
+GMT 2026-04-14, 19:43
+on me
+
+Hi Rejmer,
+
+Thanks for the useful feedback as usual. I’ve updated https://forum.heliumtrades.com/t/understanding-heliums-news-bias/191
+
+For analyzing article bias, I’m using gpt-5-nano and then gpt-5.4-nano to write the bias reports.
+
+I’ve fixed the mobile display issue on https://heliumtrades.com/sources/ for the table.
+
+Also, check out the new MCP tool that you might find quite useful: https://heliumtrades.com/mcp-page/
+
+Best,
+
+Conner";
+
+
 
 Correction-Combo 3:
 2024-05-23:contra no-source-doctrine,2024-05-25/26:bias-bars-consistency,prescriptive-marked word but no prescription-bar : 
