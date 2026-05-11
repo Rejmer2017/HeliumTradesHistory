@@ -1,8 +1,55 @@
-Reply to 2026-05-11: About HT-AI, law360.com:
-"Dear HeliumTrades-Team,
+“2026-05-11: About HT-AI, law360.com
+ 
+Rejmer2017 0 
+	12:45 (before 5 hours)		
+on contact
+ 
+	
+2026-05-11: About HT-AI, law360.com:
+Dear HeliumTrades-Team,
+
+How relevant is guessing if an article is " Written by AI " or non-AI, as long as the content seeks the closest approximation of truth? Even if one could use this to demonstrate that this author lied about the absence of AI, they could still outsource his article to another human author or a more human-like AI? A more interesting approach would be if HeliumTrades-AI could detect roughly which kind of AI-model/personality wrote an article. That's like knowing the author's "brain". The HeliumTrades-AI can compensate their lack of filling other spectrum of biases by pointing out the general biases of the author/AI-model, stating that this is n approximated generalization and not that article itself. This is what the profiles of https://heliumtrades.com/sources/ shows, just with AIs including within the media-sources-list or a separating list. If judging AIs is too complex to handle, then don't.
+
+2026.05.11/https://heliumtrades.com/media-bias/law360.com : " repeated “neutral” conclusions may reflect insufficient information rather than balanced reporting  " What if the information was sufficient and it happened to give the same conclusions? It's worded as an general assumption.
+"Helium Bias: I overweight “template-ness” as AI/propaganda; with only summaries, I infer more than I can prove.
+
+
+(?)  May 03, 2026
+" The HT-AI admits that it assumes more than it proves.,
+
+"
+Coinbase Stole Patented Blockchain Network Tech, Co. Says - Law360
+" : " Loaded headline framing Coinbase as having stolen patented blockchain technology signals sensational, accusatory bias with minimal corroboration.  ",
+2026.05.11/https://www.law360.com/articles/2475762/coinbase-stole-patented-blockchain-network-tech-co-says : "Coinbase Stole Patented Blockchain Network Tech, Co. Says
+
+   By Hailey Konnath ( May 8, 2026, 10:16 PM EDT) -- A Texas
+   company has asked a federal court to block Coinbase from
+   infringing a group of patents covering improvements to
+   blockchain technology, pointing to two of the cryptocurrency
+   exchange's products: the Coinbase Wallet and the Base app....
+" I see how HT-AI concludes that law360 signals some readers to think that Coinbase stoled it, especially how "
+, Co. Says
+" comes last, yet what this headline and articles/2475762/Hailey Konnath says is that a company/Co. claims that coinbase stole it.
+So it kinda isn't framing but a wrong first expression from reading left-to-right. HT-AI is half-right about it.
+2026.05.11/https://dictionary.cambridge.org/dictionary/english/framing : framing noun (EXPRESSION) : "the way that something is expressed, and the words that are chosen to do this" AI is in this definition right.,
+framing noun (EXPRESSION) : "the ideas and meanings that are connected with something when it is described or discussed, so that people understand it in a particular way" AI is half-right. It is wrongly connected at the beginning "Coinbase Stole Patented Blockchain Network Tech" but then correctly connected in the end, making this particular way at the end as not framing in favor of "Coinbase Stole", with the memory of the first impression being maybe inside this reader's subconsciousness. In this definition, articles/2475762 with official name Hailey Konnath framed the reader's consciousness to think that this is just a claim from a company, meanwhile attempting to frame the reader's subconsciousness.
+2026.05.11/https://thedecisionlab.com/reference-guide/psychology/the-first-impression-bias : " Lindgaard and colleagues found that participants reliably decided which homepages they liked and which they did not like within 50 milliseconds.  "..." More research needs to be conducted to examine how long these first impressions last  ", " physicians were likely basing their final diagnoses largely on the first pieces of information they learned about the patients  ",
+2026.05.11/https://www.academia.edu/534967/User_satisfaction_aesthetics_and_usability_Beyond_reductionism : "  Our concern with satisfaction arises from very robust findings in the neurophysiological literature where researchers constantly find that emotional responses are strikingly immediate, occurring within 3-4 milliseconds of a stimulus being shown (Bornstein, 1992; Zajonc, 1980). Thus, according to this research, emotional responses are pre-attentive and precede cognitive ones. The implications for web design are obvious and  pervasive" , " strength of the ‘first impression’, characterized by what psychologists call a ‘primacy effect’, has long featured very prominently in the psychological literature, (Anderson, 1981; Anderson, 1982) even in areas involving expert judgement such as diagnostic medicine (Lindgaard, 1985). Basically, judgments are  overwhelmingly based on the first impression.", "
+Twenty subjects, 10 males and 10 females, were recruited from around the University Campus in a semi-random fashion, ensuring that English was their first language, that they were regular Internet users (2-10hrs/week), and  that they had no UI design or evaluation experience.",
+2026.05.11/https://dictionary.cambridge.org/dictionary/english/framing :  framing noun (FOR CRIME): "the action of making a person seem to be guilty of a crime when they are not, by giving information that is not true" AI is in this definition wrong then about the headline and this article's content.
+
+Which dictionary does HT-AI use? Is the answer more complicated as to how HeliumTrades-AI learns English? HT-AI should express in a concise manner without possible misinterpretations and double meanings for communicating better about biases/the "character" and tendencies of certain sets of texts to the readers.
+
+Sincerely, Rejmer
+
+Rejmer2017 0 
+	15:54 (before 1 hour)		
+on contact
+ 
+	
+Dear HeliumTrades-Team,
 
 2026.05.11/https://www.quora.com/Is-it-better-to-read-with-bigger-fonts-or-smaller-fonts-on-desktop : " web has made it easy to set your text against ridiculous backgrounds, or to make the font a color other than black  "..." these words you are reading are grey, not black  "..." black letters on white is always best  " implies that the black headline as opposed to the brighter gray texts below from upper-right to lower-left with decreasing transparency makes the black headline the most preferable and implies the focus on reading upper-right to lower-left
-
 
 2026.05.11/https://ssol-journal.com/articles/10.61645/ssol.176 : "Over the last decades, however, a shift has been noted in reading, usually described as a shift from close reading (a careful reading of the text in a mode of focused concentration, in a linear manner) to hyperreading (Hayles, 2007, 2012). Close reading refers to a mode of reading with sustained and focused (or “deep”) attention to the text, including its stylistic and compositional aspects (Lentricchia and Dubois, 2003). It is crucial for the deep inferential comprehension that allows one to critically engage with the meaning of texts (Baron, 2021; Mangen and Van der Weel, 2016). Hyperreading is a term coined by James Sosnoski in 1999 to denote non-linear ways of reading like skimming and scanning, often by way of screen media. It enables us to quickly identify relevant information, and thus to determine what to zoom in on (Liu, 2005). Close reading is almost exclusively discussed as pertaining to literary texts (except for dense works like philosophical or historical treatises), whereas skimming is usually discussed in relation to information texts (e.g., Duggan and Payne, 2009; 2011; Sosnoski, 1999) and rarely brought up in relation to reading literature, with some recent exceptions investigating preferences and habits for literary reading in various mediums, such as print book vs. e-reader (Kindle) vs. audiobook (Kosch et al., 2021; Spjeldnæs and Karlsen, 2022). This may suggest that reading literature more or less exclusively entails close reading in an uninterrupted mode of deep attention.",
 "Liu (2005) suggests that screen-based reading behavior is characterized by “more time spent browsing and scanning, keyword spotting, one-time reading, non-linear reading, and reading more selectively, while less time is spent on in-depth reading, and concentrated reading” (p. 700). Empirical studies in various areas of reading research have found that screens seem to encourage skimming, scanning, and hence a kind of superficial reading (Liu, 2005; Mangen et al., 2013; Noyes and Garland, 2008). Hyperreading corresponds with a cognitive style that Hayles (2012) calls hyperattention, marked by rapid switching among tasks, with a preference for “multiple information streams” seeking a “high level of stimulation” and with low tolerance for boredom (p. 178). Hyper attention is appropriate whenever we have to quickly negotiate changing environments where multiple stimuli compete for our attention. Its drawback is its impatience with sustained attention to noninteractive objects." (It seems that the feed on the right of "
@@ -40,9 +87,7 @@ This sounds stretchy, yet makes sense with the assumption that the information-s
 2026.05.11/https://jina.ai/news/on-the-size-bias-of-text-embeddings-and-its-impact-in-search/ : "
 What Causes Size Bias?
 Size bias in embeddings isn’t like positional biases in long-context models. It isn’t caused by architectures. It’s not inherently about size, either. If, for example, we had created longer documents by just concatenating copies of the same document over and over, it wouldn't show a size bias.
-
 The problem is that long texts say more things. Even if they’re constrained by a topic and purpose, the whole point of writing more words is to say more stuff.
-
 Longer texts, at least of the kind people normally create, will naturally produce embeddings that “spread” over more semantic space. If a text says more things, its embedding will have a lower angle with other vectors on average, independent of the subject of the text." in combination of  2026.05.11/ssol-journal.com/articles/10.61645/ssol.176 : Skimmers orientating on " specific goal, purpose " as the most important information they take with the first-impression-bias and the comma increasing the gap slightly for lower-vision-eyes and psychologically, when reading with an inner voice might explain or justify why the HT-AI sees this title as framing for the "Coinbase Stole"-narrative. That "Co." is lesser-known than "Coinbase", which resonates to more people's mental associations. "Company says: Coinbase Stole Patented Blockchain Network Tech" would be more accurate, which law360.com refused.
 
 2026.05.11/https://medium.com/@andrew.e.blackburn/the-hidden-psychology-of-commas-what-punctuation-reveals-about-how-we-see-the-world-69168ecec7a3 : "The Comma as a Cognitive Separator
@@ -57,56 +102,8 @@ In relational graphology, punctuation acts as a projective cue — a subtle 
 So headline-fonts influence memory of adults, even more children and mentally ill people with their attention-span with lower reading capabilities such as misinterpreting "Co." First-impression-bias seems universal. Blackness is preferable to dark-grayness for readers and therefore they focus on the blacker texts first. Less transparency on less texts below https://www.law360.com/articles/2475762/coinbase-stole-patented-blockchain-network-tech-co-says causes more focus in title, including re-reading it unless they are a disinterested hyper-reader looking at the feeds. When they understand "Co.", then this leads to better understanding.
 
 Sincerely, Rejmer
-"
-;
-"2026-05-11: About HT-AI, law360.com:
-Dear HeliumTrades-Team,
-
-How relevant is guessing if an article is " Written by AI " or non-AI, as long as the content seeks the closest approximation of truth? Even if one could use this to demonstrate that this author lied about the absence of AI, they could still outsource his article to another human author or a more human-like AI? A more interesting approach would be if HeliumTrades-AI could detect roughly which kind of AI-model/personality wrote an article. That's like knowing the author's "brain". The HeliumTrades-AI can compensate their lack of filling other spectrum of biases by pointing out the general biases of the author/AI-model, stating that this is n approximated generalization and not that article itself. This is what the profiles of https://heliumtrades.com/sources/ shows, just with AIs including within the media-sources-list or a separating list. If judging AIs is too complex to handle, then don't.
-
-2026.05.11/https://heliumtrades.com/media-bias/law360.com : " repeated “neutral” conclusions may reflect insufficient information rather than balanced reporting  " What if the information was sufficient and it happened to give the same conclusions? It's worded as an general assumption.
-"Helium Bias: I overweight “template-ness” as AI/propaganda; with only summaries, I infer more than I can prove.
-
-(?)  May 03, 2026
-" The HT-AI admits that it assumes more than it proves.,
-
-"
-Coinbase Stole Patented Blockchain Network Tech, Co. Says - Law360
-" : " Loaded headline framing Coinbase as having stolen patented blockchain technology signals sensational, accusatory bias with minimal corroboration.  ",
-2026.05.11/https://www.law360.com/articles/2475762/coinbase-stole-patented-blockchain-network-tech-co-says : "Coinbase Stole Patented Blockchain Network Tech, Co. Says
-
-   By Hailey Konnath ( May 8, 2026, 10:16 PM EDT) -- A Texas
-   company has asked a federal court to block Coinbase from
-   infringing a group of patents covering improvements to
-   blockchain technology, pointing to two of the cryptocurrency
-   exchange's products: the Coinbase Wallet and the Base app....
-" I see how HT-AI concludes that law360 signals some readers to think that Coinbase stoled it, especially how "
-, Co. Says
-" comes last, yet what this headline and articles/2475762/Hailey Konnath says is that a company/Co. claims that coinbase stole it.
-So it kinda isn't framing but a wrong first expression from reading left-to-right. HT-AI is half-right about it.
-2026.05.11/https://dictionary.cambridge.org/dictionary/english/framing : framing noun (EXPRESSION) : "the way that something is expressed, and the words that are chosen to do this" AI is in this definition right.,
-framing noun (EXPRESSION) : "the ideas and meanings that are connected with something when it is described or discussed, so that people understand it in a particular way" AI is half-right. It is wrongly connected at the beginning "Coinbase Stole Patented Blockchain Network Tech" but then correctly connected in the end, making this particular way at the end as not framing in favor of "Coinbase Stole", with the memory of the first impression being maybe inside this reader's subconsciousness. In this definition, articles/2475762 with official name Hailey Konnath framed the reader's consciousness to think that this is just a claim from a company, meanwhile attempting to frame the reader's subconsciousness.
-2026.05.11/https://thedecisionlab.com/reference-guide/psychology/the-first-impression-bias : " Lindgaard and colleagues found that participants reliably decided which homepages they liked and which they did not like within 50 milliseconds.  "..." More research needs to be conducted to examine how long these first impressions last  ", " physicians were likely basing their final diagnoses largely on the first pieces of information they learned about the patients  ",
-2026.05.11/https://www.academia.edu/534967/User_satisfaction_aesthetics_and_usability_Beyond_reductionism : "  Our concern with satisfaction arises from very robust findings in the 
-neurophysiological literature where researchers constantly find that 
-emotional responses are strikingly immediate, occurring within 3-4 
-milliseconds of a stimulus being shown (Bornstein, 1992; Zajonc, 1980). 
-Thus, according to this research, emotional responses are pre-attentive and 
-precede cognitive ones. The implications for web design are obvious and  pervasive" , " strength of the ‘first impression’, 
-characterized by what psychologists call a ‘primacy effect’, has long 
-featured very prominently in the psychological literature, (Anderson, 1981; 
-Anderson, 1982) even in areas involving expert judgement such as 
-diagnostic medicine (Lindgaard, 1985). Basically, judgments are  overwhelmingly based on the first impression.", "
-Twenty subjects, 10 males and 10 females, were recruited from around 
-the University Campus in a semi-random fashion, ensuring that English was 
-their first language, that they were regular Internet users (2-10hrs/week), and  that they had no UI design or evaluation experience.",
-2026.05.11/https://dictionary.cambridge.org/dictionary/english/framing :  framing noun (FOR CRIME): "the action of making a person seem to be guilty of a crime when they are not, by giving information that is not true" AI is in this definition wrong then about the headline and this article's content.
-
-Which dictionary does HT-AI use? Is the answer more complicated as to how HeliumTrades-AI learns English? HT-AI should express in a concise manner without possible misinterpretations and double meanings for communicating better about biases/the "character" and tendencies of certain sets of texts to the readers.
-
-Sincerely, Rejmer"
-;
-”Current Bias
+”;”
+Current Bias
  
 Conner Productions 
 	Tu., 2024-12-10, 19:52		
@@ -384,155 +381,11 @@ Sincerely, Rejmer
 
 ”
 
-;
-2024-07-07:web.archive.org is temporary offline:
-
-Rejmer
-on contact
-2024-07-07
-Dear HeliumTrades-Team,
-
-From https://archive.ph/ZB2Ec or every web.archive-links I clicked at 2024-07-07, the page says:"
-Temporarily Offline
-
-". megalodon.jp or archive.ph are available.
-
-In "https://archive.ph/Qcj4R": "
-How to catch a glimpse of the Milky Way galaxy this summer - Detroit Free Press
-
-Article Bias: Informative, descriptive article on how to see the Milky Way galaxy with a slight promotion of Michigan's dark sky parks", the Article-Bias-description says "slight promotion" without promotion-bias.
-
-Article Text missed: picture-description, "Here's everything you might want to know to catch a glimpse of the Milky Way galaxy.
-How is it possible to see the Milky Way galaxy?
-
-", bold in-between-titles all except one with "
-?
-
-" in their end, article suggestions with and after "More:", "In order to see the Milky Way, you have to eradicate all sources of light, even moonlight.", "Detroit Free Press"'s "News Alerts"-Newsletter-ad, state-park-location-list for avoiding light pollution and seeing the "Milky Way", "You can also use a light pollution map to look for other nearby areas with low light pollution."
-
-Sincerely, Rejmer
-
-Conner Productions
-on Rejmer
-2024-07-08
-Thanks Rejmer,
-
-Previously I wan only looking for <p> text</p> but going forward am including header tags as well.
-
-Conner
-
-Rejmer
-on Conner
-2024-07-08
-Dear HeliumTrades-Team,
-
-It works now.
-
-Sincerely, Rejmer
-
-Conner Productions
-on Rejmer
-2024-07-08
-Thanks Rejmer,
-
-Check out new search by url! I feel like you’ve been looking for this for a while. Just search by url to see if Helium has it’s bias.
-
-Conner
-
-Conner Productions
-on Rejmer
-2025-09-09
-Hi Rejmer,
-
-Just rolled out the “intelligence” meter to judge how intelligent articles/publications are. More data will be included going forward.
-
-Conner
-
-Rejmer
-on Conner
-2025-09-12:
-2025-09-12:
-Dear HeliumTrades-Team,
-
-I tried to save https://heliumtrades.com/media-bias/lew-rockwell yet it says "capture failed because Save Page Now does not have access rights"..."(HTTP status=403)." in "https://megalodon.jp/2025-0913-0539-10/https://web.archive.org:443/save/https://heliumtrades.com/media-bias/lew-rockwell". I also noticed that the bar-color below " 🗽 Libertarian <—> Authoritarian 🚔  " is changing. Does that mean "undetermined importance-scale" of that bias? It's more archive-friendly to have a static color. Either 50% green and 50% red or grey and maybe changing color-scale of importance from (Red > Orange > Yellow > Green) to (Black > Grey > White), but that might be counter-intuitive for the average reader. https://megalodon.jp/2025-0913-0527-54/https://heliumtrades.com:443/media-bias/lew-rockwell doesn't show emojis.
-
-By clicking "🚨   The 9/11 Nightmare Never Ends" in https://megalodon.jp/2025-0913-0527-54/https://heliumtrades.com:443/media-bias/lew-rockwell , it redirects to original page instead the archived one.
-
-Between "More than anything else, that horror from 9/11 haunts me." and "In the first few years after the Islamic terror  " in HeliumTrades, there's no line-break compared to those same statements in https://web.archive.org/web/20250912205204/https://www.lewrockwell.com/2025/09/no_author/the-9-11-nightmare-never-ends/ . HeliumTrades's Article Text ignores line-breaks in the beginning except "This article was
-
-One of the nightmares that", "from 9/11 haunts me.
-
-In the first", yet adds more line-breaks the further one scroll below.
-
-HT's Article Text also repeated the article from LewRockwell.com 2x. One without linebreaks and one with accruate linebreaks. That either shows inconsistencies of what an "Article Text" is or another unknown standard of analyzing the same article in different revisions.
-
-Inside lewrockwell.com , between "As the years went by, those videos disappeared." and "Even during the annual memorials for 9/11, the sight of Americans falling from the sky was gradually obscured" are two spaces "  " meanwhile HT-Article-Text has 1 space " ".
-
-Analyzing "This article was" alone is more useless since it's very vague to process what it means. It's also an incomplete information for HeliumTrades-"Article Text" about https://web.archive.org/web/20250912205204/https://www.lewrockwell.com/2025/09/no_author/the-9-11-nightmare-never-ends/ : "This article was originally published on American Thinker.". It's unfinished.
-
-https://web.archive.org/web/20250912205204/https://www.lewrockwell.com/2025/09/no_author/the-9-11-nightmare-never-ends/ uses one space-gap inside sentences, yet two between finished sentences and finished sequenced paragraphs like "(1) We were in a civilizational war, and (2) militant Islamists were our enemies.". This can be noted my HT-AI as well when fixed, although "Article Text" is just a vague approximation which shows vaguely what HT-AI read with their "eyes" as well.
-
-The "Advertising"-bias might missed "" as an ".img" (BURT'S GOLD PAGE) and one can argue that Political Theatre, LRC Blog, LRC Podcasts with "MORE"-links also counts as advertisement.
-
-I can see how using more philosophical concepts and abstract, metaphorical statements like "Marxist dialectic was in full force" leads to higher intelligence (if rigidly defined). The inclusion of "Marxist" makes it more political. The bias-assessment seems fine for the first heuristically reading of https://web.archive.org/web/20250912205204/https://www.lewrockwell.com/2025/09/no_author/the-9-11-nightmare-never-ends/ .
-
-SIncerely, Rejmer
-
-Conner Productions
-on Rejmer
-2025-09-15
-Thanks Rejmer,
-
-I’ve updated the colors for the bias bars back to their original colors. I’ve also updated the review pages to use a more powerful AI model for analyzing bias going forward.
-
-Conner
-
-Conner Productions
-on Rejmer
-2026-03-20
-Hey Rejmer,
-
-Hope you’re doing well. Take a look at all of the Helium updates next time you get a chance!
-
-Conner
-Rejmer2017
-on Conner
-before 53 Minutes
-2026-04-10: Dear HeliumTrades-Team,
-
-2026.04.10/https://forum.heliumtrades.com/t/understanding-heliums-news-bias/191 needs an update.
-Looking at 2026.04.10/https://heliumtrades.com/sources/ , I like the part of the old version where every website can be seen instead of being scrolled also for compatibility and web-archive-able reasons such as https://megalodon.jp/2026-0411-0402-10/https://heliumtrades.com:443/sources/ crashing when I scroll in my iOS 15.8.7 device, yet that same website working on Android 7. The search-bar is a more efficient, new part and all the biases as far as I noticed is showing.
-https://megalodon.jp/?url=https%3A%2F%2Fheliumtrades.com%2Fmedia-bias%2Fnpr shows "(IMG ONLY: unknown error.)".
-Seeing at 2026.04.10/https://heliumtrades.com/media-bias/helium-trades 's lack of self-description and AI-development in general in combination with increasing source-description-data such as https://heliumtrades.com/media-bias/npr and more AI-generated content-summary being shown in "Bias"-tab instead of raw data of what the AI sees, I wonder how much trust we can place to HeliumTrades-AI, human capabilities in future to judge AIs being more complex than us, their disappeared self-description, even though in their past and their media-bias-profiles, they're self-critical and have enough data to have any description about themselves like in 2026.04.10/https://heliumtrades.com/media-bias/usa-today : "Helium Bias: I over-trust the summaries’ tone labels; might over-attribute bias to monetization cues.  (?)  March 22, 2026" As heliumtrades.com/media-bias/helium-trades came to be, I imagined it roughly as a merged summary with footnotes of all the bias-judgements considering their context that HeliumTrades-AI made about themselves, which is more expensive ideal than reality. Also ideally, a list of all bias-judgements from HeliumTrades-AI about itself in a webpage unfiltered and linked and their name of AI-model. Like Anthropic-AI was used earlier and that AI I called it HeliumTrades-AI can be a vastly different one, yet you can inform me about their state. Or at least being able to search their bias-judgements about themselves instead of News-articles being on top on Relevance: 2026.04.10/https://heliumtrades.com/balanced-news/?q=I+over-trust+the+summaries’+tone+labels%3B+might+over-attribute+bias+to+monetization+cues and 2026.04.10/https://heliumtrades.com/balanced-news/?q=%22I+over-trust+the+summaries’+tone+labels;+might+over-attribute+bias+to+monetization+cues.%22
-
-When the archived links are entirely gone as a function to click at least for non-registered users or not available for bias-summary, then the date and time when the HeliumTrades-AI read that article suffice it.
-
-Overall, progress and more reliance to AIs continues and it's impressive how much data is collected and continuing that mission of assessing biases, reliabilities of articles and other factors relevant to the ideal of truth till this day.
-
-Sincerely, Rejmer",
-"
-Conner Productions
-GMT 2026-04-14, 19:43
-on me
-
-Hi Rejmer,
-
-Thanks for the useful feedback as usual. I’ve updated https://forum.heliumtrades.com/t/understanding-heliums-news-bias/191
-
-For analyzing article bias, I’m using gpt-5-nano and then gpt-5.4-nano to write the bias reports.
-
-I’ve fixed the mobile display issue on https://heliumtrades.com/sources/ for the table.
-
-Also, check out the new MCP tool that you might find quite useful: https://heliumtrades.com/mcp-page/
-
-Best,
-
-Conner";
-
-
 
 Correction-Combo 3:
-2024-05-23:contra no-source-doctrine,2024-05-25/26:bias-bars-consistency,prescriptive-marked word but no prescription-bar : 
+ 
+
+2024-05-23:contra no-source-doctrine,2024-05-25/26:bias-bars-consistency,prescriptive-marked word but no prescription-bar  : 2024-05-23:contra no-source-doctrine,2024-05-25/26:bias-bars-consistency,prescriptive-marked word but no prescription-bar : 
 Dear HeliumTrades-Team,
 
 2024-05-23:contra no-source-doctrine :
@@ -666,7 +519,19 @@ Original archived article has:"A Month of Animation
 ", "
 The case caused the US to update its guidance for spotting North Korean IT workers." The green-lack represents over-fixation of letter-level-details ignoring the relation between letters.
 
-Sincerely, Rejmer
+Sincerely, Rejmer,
+“
+Conner Productions <conner@connerpro.com>
+	2024-05-20, 20:57		
+an mich
+ 
+	
+Thanks Rejmer,
+
+Just pushed some new updates including some new biases.
+
+Conner
+”
 -error-
 Reply: 2024-08-07:Reply: 2024-07-07 web.archive.org is temporary offline:
 2025-09-09: "Hi Rejmer,
@@ -845,7 +710,19 @@ More truth-contributing useful bias-bars counteracting HT-AI's biases: A technic
 A complex constantly-flexible bias-bar as idea: Uniting all the biases HeliumTrades claimed to have about themselves in a merit of this bias-axis "      HT-AI-attachment/more biased <->      HT-AI-disinterested/less biased".
 Or seperating the "attachment"-bias into 2 extremes and making it an own bias-bar: "     HT-AI-favored/likes <->   HT-AI-disfavored/disliked/hatred", so that the human reader can kinda counteract HeliumTrades's bias by looking at the center of HT-AI-favored-bias-bar and knowing HT-AI's "personality-profile as the reader's journey during the time. The HT-AI-attachment-bias-bar is when the HT-AI-Like/Dislike-bias-bar is tiding the 2 extremes to the left.
 
-Sincerely, Rejmer
+Sincerely, Rejmer,
+“
+Conner Productions 
+	Sa., 2024-06-22, 03:01		
+On me
+ 
+	
+Thanks Rejmer,
+
+I like the idea of “trying to counteract HT-AI bias”
+
+Conner
+”
 
 
 2024-06-11:balanced-news/Mortgage-rates-dipped-back-below-7% : Dear HeliumTrades-Team, In https://megalodon.jp/2024-0612-0244-10/https://heliumtrades.com:443/balanced-news/Mortgage-rates-dipped-back-below-7%25 : Is HeliumTrades-Index supposed to call  "[Positive news on inf]" instead source-name: "American Banker"? That link is neither archived in balanced-news-summary nor on americanbanker.com Media Bias on June 6, 2024 | Helium Trades (archive.org) > "
@@ -986,7 +863,20 @@ Bias
 
 Fox Business Media Bias on June 6, 2024 | Helium Trades (archive.org) also have doubled news-contents from themselves without duplication-bias-bar.
 
-Sincerely, Rejmer
+Sincerely, Rejmer,
+“
+Conner Productions 
+	Fr., 2024-06-14, 14:11		
+On me
+ 
+	
+Thanks Rejmer,
+
+Just added a “written by AI” bias, let me know your thoughts…
+
+
+Conner
+”
 
 2024-06-10: the-guardian?date=2024-06-06 : Dear HeliumTrades-Team,
 
@@ -998,7 +888,17 @@ Communities will be given right to turn eyesores into parks, says Labour
 Exclusive: Party wants to appeal to voters’ patriotism by improving access to nature and green spacesLocal communities would be given the right to buy up derelict eyesores and turn them into parks under a Labour government, while walkers and swimmers would gain access to hundreds of miles of river pathways, the party has pledged.Labour will make a direct appeal to voters’ patriotism, presenting the restoration of nature as a matter of national identity and status. ...
 "
 
-Sincerely, Rejmer
+Sincerely, Rejmer,
+“
+Conner Productions 
+	Tu., 2024-06-11, 13:09		
+On me
+ 
+	
+Fixed going forward. Good catch.
+
+Conner
+”
 
 2024-06-04: About Duplication-Bias
 
@@ -1122,7 +1022,19 @@ Past Week
 󰅀"
 like in a certain time range sort it specific to a merit. HeliumTrades-search has a merit-sorting-function too, yet nooz.ai looks at all articles in past week, 3 days or today as far as I know. I would find it interesting if the HeliumTrades-user in the future can look at the most "Objective Realistic"-article at all time. Prioritizing articles higher in news feed or another section crawling all articles in all times with more objective-realism-desirable biases [Credible, Objective, Factful (Factual), Informative, Descriptive, Scientific, Rational, Appeal to Reason (reasonable), Mature, Apolitical, Political Centrist (at least equal absence from Liberal/Authoritarian/Conservative/Libertarian), Neutral, One General-Applied Standard, Humble, Reflective...] and less subjective-idealist-biases (Manipulative, Subjective, Oversimplification, Spam, Prescriptive, Superstitious, Irrational, Emotional, Sensational, Appeal to Authority, Gossip, Advertising, Immature, Political, Conservative/Liberal, Libertarian/Authoritarian, Pro-/Anti-Establishment,  Pro-/Anti-Corporate, Speculative, Negative/Positive, Victimized, Circular reasoning, Double Standard, Over-/Underconfident, Bearish/Bullish, Individualist/Collectivist... ).
 
-Sincerely, Rejmer
+Sincerely, Rejmer,
+“
+Conner Productions <conner@connerpro.com>
+	Fr., 2024-05-31, 14:32		
+On me
+ 
+	
+Thanks Rejmer,
+
+  is for “uncredible”
+
+Conner
+”
 HT-AI misidentifies collection as article : 
 Dear HeliumTrades-Team,
 
@@ -1606,7 +1518,7 @@ Mainstream-Bias-definition is there too.
 Good luck going forward.
 
 Sincerely, Rejmer
-2024-04-28:non-hyperlinked or properly referred footnotes in Helium Answer:
+2024-04-28:non-hyperlinked or properly referred footnotes in Helium Answer, 2024-04-29: media-bias-summary-mis-referencing : 2024-04-28:non-hyperlinked or properly referred footnotes in Helium Answer:
 Dear HeliumTrades-Team,
 
 Although "https://megalodon.jp/2024-0429-0351-20/https://anotepad.com:443/note/read/7tfparwb" (query:"
@@ -1679,7 +1591,19 @@ NASA's DART mission hammered its target asteroid into a new shape. Here's how - 
 
 Bias-idea: Political-bias means group-bias. How about an individual counterpart?   Fan of  Individual-bias/  worship-bias?
 
-Sincerely, Rejmer
+Sincerely, Rejmer,
+Reply: “
+Conner Productions <conner@connerpro.com>
+	30.04.2024, 19:31		
+an mich
+ 
+	
+Thanks Rejmer,
+
+I’ll prioritize archive.org links going forward. Spam bias should be more accurate going forward as well.
+
+Conner
+”
 
 2024-04-27:ignores ad, 2 articles at 1 webpage:
 Dear HeliumTrades-Team,
@@ -2004,7 +1928,20 @@ Taking direct reports such as https://web.archive.org/web/20240424104428/https:/
 HeliumTrades-AI could try like https://web.archive.org/web/20240424150733/https://arstechnica.com/cars/2021/04/who-will-win-the-self-driving-race-here-are-8-possibilities/ making multiple predictions and interpretations of past and present. Why stopping at Bullish & Bearish?
 The HeliumTrades-AI using ideally DeepL-Translate, translate.google.com or few English words in  other-language websites to grasp and make the closest estimate possible to scan useful information. It's possible with "view-source:" or Source Code Viewer to View HTML Source Code Online (codebeautify.org) to look at webpage language, also to separate "spam" with different language beyond the English HeliumTrades-AI's capability.
 
-Sincerely, Rejmer
+Sincerely, Rejmer”,
+“
+Conner Productions 
+	2024-04-26, 20:35		
+on me
+ 
+	
+Hi Rejmer,
+
+One purpose of Helium citing itself is to recursively improve its predictions through calibration and error-correction.
+
+Conner
+”,
+“”
 
 I scrolled down to https://www.nytimes.com/interactive/2024/04/18/t-magazine/stephen-king-tracy-chapman-chloe-sevigny-debut.html , copied their text before nytimes's  Account-Screen appears and deletes their rest of content, got this: Rich Text except footer https://web.archive.org/20240423/https://www.nytimes.com/interactive/2024/04/18/t-magazine/music-art-fashion-beginnings.html - Online Notepad which in megalodon.jp doesn't catch text and turns out that article still has content and about musical artists so I was wrong.
  
@@ -2674,6 +2611,7 @@ Sincerely, Rejmer
 : Reply: 
 "
 
+
 Merry Christmas, Mr. Lawrence Directed by Nagisa Oshima, by Jung-Freud
 
 This article takes a liberal perspective and focuses on the political and moral implications of war.
@@ -2706,7 +2644,20 @@ was "
 			287	I didn’t read it. If you search with Ctrl-F, “Japan” gets over 400 results, so there must be some discussion of Japanese culture in there. “Samurai” gets many results, but “ninja” gets none, indicating how much each occupation mattered in Japanese history, or possibly how much the author cares about each of those occupations. “Mario” brings up an Italian director, not the Italian plumber from the video games. There are no results for “Luigi” or “Peach” or “Pokemon” or “Nintendo”, so there must not be any digressions about video games.
 			288	I always hated David Bowie. I thought he was a pretentious weirdo, and cosmically over-rated. He was a Race Traitor, too. Fuck him.
 			289	I vaguely recall Merry Christmas, Mister Lawrence being a stilted, tediously homoerotic film based on what was actually a very good short story. As with King Rat, the original source for Mister Lawrence offers some insights into the Japanese national character that being their prisoner seems to have (unpleasantly) offered.
-" between "amusing." and ""]".
+" between "amusing." and ""]".,
+“
+Reply on “Better version 2024-04-07: Bias-summary conflicts progress-bars,potential issue when considering ghost-edit-progress-bar”:
+Conner Productions 
+	2024-05-11, 00:47		
+on me
+ 
+	
+Thanks Rejmer,
+
+I’ve made a BUNCH of improvements, including much better exact-match for searches.
+
+Conner
+”,
 Dear HeliumTrades-Team,
 
 The reason why I couldn't saw 0-bias-bars is because everytime I turned "Show All Biases" on and then returning to settings, it's off. Switching to desktop, a notification below shows "Please enter a number", yet it never specifies where.
@@ -2958,7 +2909,175 @@ As Voyager 1's mission draws to a close, one planetary scientist reflects on its
 
 " 
 
+Sincerely, Rejmer;
+“2024-07-07:web.archive.org is temporary offline
+
+ 
+Rejmer2017 0 <rejmer2017@gmail.com>
+	So., 7. Juli 2024, 16:21		
+an contact
+ 
+	
+Dear HeliumTrades-Team,
+
+From https://archive.ph/ZB2Ec or every web.archive-links I clicked at 2024-07-07, the page says:"
+Temporarily Offline
+". megalodon.jp or archive.ph are available.
+
+In "https://archive.ph/Qcj4R": "
+
+How to catch a glimpse of the Milky Way galaxy this summer - Detroit Free Press
+
+Article Bias: Informative, descriptive article on how to see the Milky Way galaxy with a slight promotion of Michigan's dark sky parks", the Article-Bias-description says "slight promotion" without promotion-bias.
+
+Article Text missed: picture-description, "Here's everything you might want to know to catch a glimpse of the Milky Way galaxy.
+How is it possible to see the Milky Way galaxy?
+", bold in-between-titles all except one with "
+?
+" in their end, article suggestions with and after "More:", "In order to see the Milky Way, you have to eradicate all sources of light, even moonlight.", "Detroit Free Press"'s "News Alerts"-Newsletter-ad, state-park-location-list for avoiding light pollution and seeing the "Milky Way", "You can also use a light pollution map to look for other nearby areas with low light pollution."
+
 Sincerely, Rejmer
+ 
+Conner Productions <conner@connerpro.com>
+	Mo., 8. Juli 2024, 02:32		
+an mich
+ 
+	
+Thanks Rejmer,
+
+Previously I wan only looking for <p> text</p> but going forward am including header tags as well.
+
+Conner
+ 
+Rejmer2017 0 <rejmer2017@gmail.com>
+	Mo., 8. Juli 2024, 13:07		
+an Conner
+ 
+	
+Dear HeliumTrades-Team,
+
+It works now.
+
+Sincerely, Rejmer
+ 
+Conner Productions <conner@connerpro.com>
+	Mo., 8. Juli 2024, 15:23		
+an mich
+ 
+	
+Thanks Rejmer,
+
+Check out new search by url! I feel like you’ve been looking for this for a while. Just search by url to see if Helium has it’s bias.
+
+Conner
+ 
+Conner Productions <conner@connerpro.com>
+	Di., 9. Sept. 2025, 18:37		
+an mich
+ 
+	
+Hi Rejmer,
+
+Just rolled out the “intelligence” meter to judge how intelligent articles/publications are. More data will be included going forward.
+
+Conner
+ 
+Rejmer2017 0 <rejmer2017@gmail.com>
+	Fr., 12. Sept. 2025, 21:39		
+an Conner
+ 
+	
+2025-09-12:
+Dear HeliumTrades-Team,
+
+I tried to save https://heliumtrades.com/media-bias/lew-rockwell yet it says "capture failed because Save Page Now does not have access rights"..."(HTTP status=403)." in "https://megalodon.jp/2025-0913-0539-10/https://web.archive.org:443/save/https://heliumtrades.com/media-bias/lew-rockwell". I also noticed that the bar-color below "   Libertarian <—> Authoritarian    " is changing. Does that mean "undetermined importance-scale" of that bias? It's more archive-friendly to have a static color. Either 50% green and 50% red or grey and maybe changing color-scale of importance from (Red > Orange > Yellow > Green) to (Black > Grey > White), but that might be counter-intuitive for the average reader. https://megalodon.jp/2025-0913-0527-54/https://heliumtrades.com:443/media-bias/lew-rockwell doesn't show emojis.
+
+By clicking "    The 9/11 Nightmare Never Ends" in https://megalodon.jp/2025-0913-0527-54/https://heliumtrades.com:443/media-bias/lew-rockwell , it redirects to original page instead the archived one.
+
+Between "More than anything else, that horror from 9/11 haunts me." and "In the first few years after the Islamic terror  " in HeliumTrades, there's no line-break compared to those same statements in https://web.archive.org/web/20250912205204/https://www.lewrockwell.com/2025/09/no_author/the-9-11-nightmare-never-ends/ . HeliumTrades's Article Text ignores line-breaks in the beginning except "This article was
+
+One of the nightmares that", "from 9/11 haunts me.
+
+In the first", yet adds more line-breaks the further one scroll below.
+
+HT's Article Text also repeated the article from LewRockwell.com 2x. One without linebreaks and one with accruate linebreaks. That either shows inconsistencies of what an "Article Text" is or another unknown standard of analyzing the same article in different revisions.
+
+Inside lewrockwell.com , between "As the years went by, those videos disappeared." and "Even during the annual memorials for 9/11, the sight of Americans falling from the sky was gradually obscured" are two spaces "  " meanwhile HT-Article-Text has 1 space " ".
+
+Analyzing "This article was" alone is more useless since it's very vague to process what it means. It's also an incomplete information for HeliumTrades-"Article Text" about https://web.archive.org/web/20250912205204/https://www.lewrockwell.com/2025/09/no_author/the-9-11-nightmare-never-ends/ : "This article was originally published on American Thinker.". It's unfinished.
+
+https://web.archive.org/web/20250912205204/https://www.lewrockwell.com/2025/09/no_author/the-9-11-nightmare-never-ends/ uses one space-gap inside sentences, yet two between finished sentences and finished sequenced paragraphs like "(1) We were in a civilizational war, and (2) militant Islamists were our enemies.". This can be noted my HT-AI as well when fixed, although "Article Text" is just a vague approximation which shows vaguely what HT-AI read with their "eyes" as well.
+
+The "Advertising"-bias might missed "" as an ".img" (BURT'S GOLD PAGE) and one can argue that Political Theatre, LRC Blog, LRC Podcasts with "MORE"-links also counts as advertisement.
+
+I can see how using more philosophical concepts and abstract, metaphorical statements like "Marxist dialectic was in full force" leads to higher intelligence (if rigidly defined). The inclusion of "Marxist" makes it more political. The bias-assessment seems fine for the first heuristically reading of https://web.archive.org/web/20250912205204/https://www.lewrockwell.com/2025/09/no_author/the-9-11-nightmare-never-ends/ .
+
+SIncerely, Rejmer
+ 
+Conner Productions <conner@connerpro.com>
+	Mo., 15. Sept. 2025, 15:04		
+an mich
+ 
+	
+Thanks Rejmer,
+
+I’ve updated the colors for the bias bars back to their original colors. I’ve also updated the review pages to use a more powerful AI model for analyzing bias going forward.
+
+Conner
+ 
+Conner Productions <conner@connerpro.com>
+	Fr., 20. März, 22:53		
+an mich
+ 
+	
+Hey Rejmer,
+
+Hope you’re doing well. Take a look at all of the Helium updates next time you get a chance!
+
+Conner
+
+
+
+
+On Sep 12, 2025, at 3:39 PM, Rejmer2017 0 <rejmer2017@gmail.com> wrote:
+ 
+Rejmer2017 0 <rejmer2017@gmail.com>
+	Fr., 10. Apr., 21:32		
+an Conner
+ 
+	
+2026-04-10: Dear HeliumTrades-Team,
+
+2026.04.10/https://forum.heliumtrades.com/t/understanding-heliums-news-bias/191 needs an update.
+Looking at 2026.04.10/https://heliumtrades.com/sources/ , I like the part of the old version where every website can be seen instead of being scrolled also for compatibility and web-archive-able reasons such as https://megalodon.jp/2026-0411-0402-10/https://heliumtrades.com:443/sources/ crashing when I scroll in my iOS 15.8.7 device, yet that same website working on Android 7. The search-bar is a more efficient, new part and all the biases as far as I noticed is showing.
+https://megalodon.jp/?url=https%3A%2F%2Fheliumtrades.com%2Fmedia-bias%2Fnpr shows "(IMG ONLY: unknown error.)".
+Seeing at 2026.04.10/https://heliumtrades.com/media-bias/helium-trades 's lack of self-description and AI-development in general in combination with increasing source-description-data such as https://heliumtrades.com/media-bias/npr and more AI-generated content-summary being shown in "Bias"-tab instead of raw data of what the AI sees, I wonder how much trust we can place to HeliumTrades-AI, human capabilities in future to judge AIs being more complex than us, their disappeared self-description, even though in their past and their media-bias-profiles, they're self-critical and have enough data to have any description about themselves like in 2026.04.10/https://heliumtrades.com/media-bias/usa-today : "Helium Bias: I over-trust the summaries’ tone labels; might over-attribute bias to monetization cues.  (?)  March 22, 2026" As heliumtrades.com/media-bias/helium-trades came to be, I imagined it roughly as a merged summary with footnotes of all the bias-judgements considering their context that HeliumTrades-AI made about themselves, which is more expensive ideal than reality. Also ideally, a list of all bias-judgements from HeliumTrades-AI about itself in a webpage unfiltered and linked and their name of AI-model. Like Anthropic-AI was used earlier and that AI I called it HeliumTrades-AI can be a vastly different one, yet you can inform me about their state. Or at least being able to search their bias-judgements about themselves instead of News-articles being on top on Relevance: 2026.04.10/https://heliumtrades.com/balanced-news/?q=I+over-trust+the+summaries’+tone+labels%3B+might+over-attribute+bias+to+monetization+cues and 2026.04.10/https://heliumtrades.com/balanced-news/?q=%22I+over-trust+the+summaries’+tone+labels;+might+over-attribute+bias+to+monetization+cues.%22
+
+When the archived links are entirely gone as a function to click at least for non-registered users or not available for bias-summary, then the date and time when the HeliumTrades-AI read that article suffice it.
+
+Overall, progress and more reliance to AIs continues and it's impressive how much data is collected and continuing that mission of assessing biases, reliabilities of articles and other factors relevant to the ideal of truth till this day.
+
+Sincerely, Rejmer
+ 
+Conner Productions
+	Di., 14. Apr., 21:43		
+an mich
+ 
+	
+Hi Rejmer,
+
+Thanks for the useful feedback as usual. I’ve updated https://forum.heliumtrades.com/t/understanding-heliums-news-bias/191
+
+For analyzing article bias, I’m using gpt-5-nano and then gpt-5.4-nano to write the bias reports.
+
+I’ve fixed the mobile display issue on https://heliumtrades.com/sources/ for the table.
+
+Also, check out the new MCP tool that you might find quite useful: https://heliumtrades.com/mcp-page/
+
+Best,
+
+Conner
+”
 2024-04-07: Bias-summary conflicts progress-bars,potential issue when considering ghost-edit-progress-bar :2024-04-15-reply:"
 
 Merry Christmas, Mr. Lawrence Directed by Nagisa Oshima, by Jung-Freud
@@ -3055,6 +3174,7 @@ Green 1/4th-sized-bar from "->" to "Credible"
 
 The 2 same except the comments articles have same "View Archive"-link (http://web.archive.org/web/20240318102647/https://www.unz.com/jfreud/merry-christmas-mr-lawrence-directed-by-nagisa-oshima/). You can delete the previous version of this report.
 
+Better version 2024-04-07: Bias-summary conflicts progress-bars,potential issue when considering ghost-edit-progress-bar :
 Dear HeliumTrades-Team,
 
 In http://web.archive.org/web/20240407092725/https://heliumtrades.com/media-bias/bmj/?date=2024-04-02 : "
@@ -3428,6 +3548,94 @@ https://reliefweb.int informs humanitarians worldwide provided by United Nations
 
 
 Sincerely, Rejmer
+2024-03-15, 20:19: “Nerdwallet has 2 repeated headline-description which with ""
+Posteingang
+ 
+Rejmer2017 0 <rejmer2017@gmail.com>
+	15.03.2024, 22:19		
+an contact@email.heliumtrades.com
+ 
+	
+Dear HeliumTrades-Team,
+
+http://web.archive.org/web/20240315133015/https://heliumtrades.com/media-bias/nerdwallet.com has 2 repeated pop-ups as their start of headline-description : "NerdWallet Inc."... and "We believe everyone", which my iPhone doesn't get those when clicking in http://web.archive.org/web/20240229080527/https://www.nerdwallet.com/article/small-business/most-profitable-business at "
+
+The 23 Most Profitable Businesses in 2024
+
+" nor just https://www.nerdwallet.com/article/small-business/most-profitable-business . Even counting them as article part, the AI may show desktop-bias, or my phone is too outdated to get those pop-ups. "Many or all of the products"..."Here is a list of our partners and here's how we make money." paragraph are fully shown through.
+Article Text missed: "
+1. Food trucks","2. Car wash services" and other listing titles, line-breaks before and after "View all sources like:"
+View all sources
+.","» MORE: Best mobile business ideas for on-the-go entrepreneurs" and other "MORE:"s., ignores "year
+[0]
+Airbnb. Hosts in the" line-break, "How much do you need?"-window-paragraph, ignores "Plus, all you need is a laptop and an internet connection to start this business.",ignores "Here are three steps to help you get started:
+" with their line-break too., ignores "
+See how to get your business started quickly
+" and their 4 suggestions, ignores "A version of this article originally appeared on JustBusiness, a subsidiary of NerdWallet" and author-section for maybe good (source-blindness-doctrine) reason/s, ignores "DIVE EVEN DEEPER IN SMALL BUSINESS" and their article-suggestions.
+
+
+HeliumTrades's AI respects line-break after "View Source" > "." at:"REPAIR Act. Accessed Feb 26, 2024.View all sources.
+
+If you’re skilled ","Accessed Feb 26, 2024.
+View all sources
+.
+With this service, " compare to "Feb 26, 2024.View all sources.
+
+With this service,","View all sources.
+
+Demand for doulas","Feb 26, 2024.View all sources.
+
+Do you have an idea","View all sources.
+
+Do you have an eye for fashion","Accessed Feb 26, 2024.
+View all sources
+.
+You might start your business by providing"," Report. Accessed Feb 26, 2024.
+View all sources
+.
+Companies have expanded","Employee Benefits Survey Results. Accessed Feb 26, 2024.
+View all sources
+.
+If you have","Yoga Alliance. Yoga in the World. Accessed Feb 26, 2024.
+View all sources
+. And a Grand View
+","topics. Accessed Feb 26, 2024.
+View all sources
+.
+Not sure how to start", HT's Version: "Finds. Accessed Feb 26, 2024.View all sources. VS original archived version: "Finds.Accessed Feb 26, 2024.
+View all sources
+.
+As a bookkeeper" , original: "Analysts.Accessed Feb 26, 2024.
+View all sources
+. 
+As an independent", original:"Relations Specialists.Accessed Feb 26, 2024.
+View all sources
+.
+22. Marketing copywriter
+If you’re particularly adept",HT's: "Status. Accessed Feb 26, 2024.View all sources.
+
+Whether"
+
+Are "Disclaimer:"...
+
+"NerdUp by NerdWallet credit card: Bank services "... &
+
+"California: California Finance Lender loans arranged pursuant to Department of Financial Protection and Innovation Finance Lenders License #60DBO-74812
+
+Property and Casualty insurance services offered through NerdWallet Insurance Services, Inc. (CA resident license no. OK92033) Property & Casualty Licenses" relevant to bias-assessment, counts as article text and does it disrupt the source-blindness-doctrine?
+
+
+Sincerely, Rejmer
+ 
+Conner Productions <conner@connerpro.com>
+	20.03.2024, 04:53		
+an mich
+ 
+	
+Thanks Rejmer,
+
+Check out new faster site, improved search and ability to ask questions and get ai answers from sources.
+”
 arXiv-"Article Text"s shows no main news content :
 Dear HeliumTrades-Team,
 
@@ -3435,7 +3643,21 @@ In http://web.archive.org/web/20240403212014/https://heliumtrades.com/media-bias
 LLaMA-Excitor: General Instruction Tuning via Indirect Feature Interaction
 ".
 
-Sincerely, Rejmer
+Sincerely, Rejmer,
+“
+Conner Productions 
+	Thu., 2024-05-04, 15:12		
+on me
+ 
+	
+Thanks for the help Rejmer,
+
+The search-by-date functionality has been fixed along with other improvements on a forward-looking basis.
+
+Also, check out the new “Discussion” feature if you’d like to have more public conversations.
+
+Conner
+”
 Dear HeliumTrades-Team,
 http://web.archive.org/web/20240403211246/https://heliumtrades.com/media-bias/observer :
 Title:"See Two Views of a Natural World Worth Perserving at the Morgan Library" - 2024/04/01 ... 
@@ -3760,8 +3982,38 @@ How It Works - The Factual is one of many who fetches and analyzes articles in T
 4.---
 "Helium Summary has no web.archive as footnote-sources" For some reason, there are no web.archive-links in those Balanced News Summaries.
 
-Sincerely, Rejmer"
-Nerdwallet has 2 repeating paragraphs
+Sincerely, Rejmer", 
+“ 
+Conner Productions
+	Thu, 2024-03-28, 14:01		
+On me
+ 
+	
+Thanks Rejmer,
+
+1.) Helium uses article Title + Text to analyze bias.
+
+2.) What do you mean by “ i doubt the feed settings are relevant.”?
+
+3.) I’ve slightly increased the min # words to run bias analysis in order to reduce biases without enough information.
+
+4.) The site is about 100x faster now!
+
+Conner
+ 
+Rejmer2017 0 
+	Fr., 2024-03-29, 07:21		
+on Conner
+ 
+	
+I mean that my feed setting for replicating that result (getting "
+
+The Top 100 Most Valuable Brands in 2024
+
+" in your feed aswell) is irrelevant, because with this feed-setting "your interests would you like to see in your feed?
+": "Don't show any of my interests", the "Don't show any of my interests"-option would make what I typed in interests-queries null and void. Yet I don't know how all factors interact with each other.
+”;
+Nerdwallet has 2 repeating paragraphs:
 
 Dear HeliumTrades-Team,
 
@@ -5785,7 +6037,7 @@ I don't know if that was misleading, yet what I kinda miss by the Bias-wheel is 
 
 Sincerely, Rejmer
 ; 2023-12-15: 14:44 : In ABC7 from AI-executed reasonable change or Bias-Data loss? About Big-Think-article, bias-bar colors and forum-date
-Posteingang
+
  
 Rejmer2017 0 <rejmer2017@gmail.com>
 	Fr., 15. Dez. 2023, 15:44		
@@ -5827,7 +6079,7 @@ The change in sensation/prescriptive was due to a change in the algorithm for ca
 
 Conner
 ; 2023-12-10: 07:45 : Deleted footnotes in https://megalodon.jp/2023-1210-1650-42/https://heliumtrades.com:443/media-bias/axios , past self-citing and the pursuit of high factual accuracy
-Posteingang
+
  
 Rejmer2017 0 <rejmer2017@gmail.com>
 	So., 10. Dez. 2023, 08:45		
@@ -6109,7 +6361,7 @@ an contact@email.heliumtrades.com
 	
 I also acknowledge the footnotes.
 ; 2023-08-25 : 05:52 : Redirect/Listing-error in heliumtrades.com/sources
-Posteingang
+
  
 Rejmer2017 0 <rejmer2017@gmail.com>
 	Fr., 25. Aug. 2023, 06:52		
@@ -6189,7 +6441,7 @@ AI ability to summarize significantly more information has been implemented for 
 
 Conner
 ; 2023-01-14 : 10:21 : List of headline-misreadings
-Posteingang
+
  
 Rejmer2017 0 <rejmer2017@gmail.com>
 	14.01.2023, 11:21		
@@ -8609,7 +8861,7 @@ Complete site facelift and new bias detection methods added. https://heliumtrade
 
 Conner
 ; 2023-01-23 : 15:11 : In future case when en.wikipedia.org will made his way to heliumtrades.com
-Posteingang
+
  
 Rejmer2017 0 <rejmer2017@gmail.com>
 	Sa., 21. Jan. 2023, 16:11		
@@ -8727,7 +8979,7 @@ Hi Rejmer,
 
 Thanks for noticing that. I've updated the AI and the new analysis (https://heliumtrades.com/media-bias/wikipedia) seems to be better.
 ; 2023-02-26 : 17:28 : Article-Bias-Info-Box gone?
-Posteingang
+
  
 Rejmer2017 0 <rejmer2017@gmail.com>
 	So., 26. Feb. 2023, 18:28		
@@ -9044,7 +9296,7 @@ Oops, no results. Make sure your search is spelled correctly, or try a more broa
 
 Sincerely, Rejmer
 ; 2023-02-01 : 17:59 : Helium
-Posteingang
+
  
 Conner Productions <conner@connerpro.com>
 	Mi., 1. Feb. 2023, 18:59		
@@ -9335,7 +9587,7 @@ an contact@email.heliumtrades.com
 	
 eTools.ch found no "Most Opinionated Articles" and "Most Sensational Articles" in "heliumtrades.com", even without quotes. Also if heliumtrades.com uses 100% of monkeylearn.com's algorithm for News Sentiment, than the sentiment analysis part of the AI's inner workings is readable.
 ; 2023-01-13 : 20:41 : Helium News Bias Updates
-Posteingang
+
  
 Conner Productions <conner@connerpro.com>
 	Fr., 13. Jan. 2023, 21:41		
@@ -9534,7 +9786,7 @@ P. S. S.: There's rarely an occurrence where during that zooming,  it shows a bi
 
 Also https://web.archive.org/web/https://heliumtrades.com/media-bias/prweb.com has bias-wheel to "Most X Articles" by having 0 Prescriptive bias with the most prescriptive articles.
 ” ; 2023-01-06 : 23:46 : “City Journal Bias
-Posteingang
+
  
 Conner Productions <conner@connerpro.com>
 	Sa., 7. Jan. 2023, 00:46		
