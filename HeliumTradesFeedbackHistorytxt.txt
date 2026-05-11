@@ -1,3 +1,50 @@
+"2026-05-11: About HT-AI, law360.com:
+Dear HeliumTrades-Team,
+
+How relevant is guessing if an article is " Written by AI " or non-AI, as long as the content seeks the closest approximation of truth? Even if one could use this to demonstrate that this author lied about the absence of AI, they could still outsource his article to another human author or a more human-like AI? A more interesting approach would be if HeliumTrades-AI could detect roughly which kind of AI-model/personality wrote an article. That's like knowing the author's "brain". The HeliumTrades-AI can compensate their lack of filling other spectrum of biases by pointing out the general biases of the author/AI-model, stating that this is n approximated generalization and not that article itself. This is what the profiles of https://heliumtrades.com/sources/ shows, just with AIs including within the media-sources-list or a separating list. If judging AIs is too complex to handle, then don't.
+
+2026.05.11/https://heliumtrades.com/media-bias/law360.com : " repeated “neutral” conclusions may reflect insufficient information rather than balanced reporting  " What if the information was sufficient and it happened to give the same conclusions? It's worded as an general assumption.
+"Helium Bias: I overweight “template-ness” as AI/propaganda; with only summaries, I infer more than I can prove.
+
+(?)  May 03, 2026
+" The HT-AI admits that it assumes more than it proves.,
+
+"
+Coinbase Stole Patented Blockchain Network Tech, Co. Says - Law360
+" : " Loaded headline framing Coinbase as having stolen patented blockchain technology signals sensational, accusatory bias with minimal corroboration.  ",
+2026.05.11/https://www.law360.com/articles/2475762/coinbase-stole-patented-blockchain-network-tech-co-says : "Coinbase Stole Patented Blockchain Network Tech, Co. Says
+
+   By Hailey Konnath ( May 8, 2026, 10:16 PM EDT) -- A Texas
+   company has asked a federal court to block Coinbase from
+   infringing a group of patents covering improvements to
+   blockchain technology, pointing to two of the cryptocurrency
+   exchange's products: the Coinbase Wallet and the Base app....
+" I see how HT-AI concludes that law360 signals some readers to think that Coinbase stoled it, especially how "
+, Co. Says
+" comes last, yet what this headline and articles/2475762/Hailey Konnath says is that a company/Co. claims that coinbase stole it.
+So it kinda isn't framing but a wrong first expression from reading left-to-right. HT-AI is half-right about it.
+2026.05.11/https://dictionary.cambridge.org/dictionary/english/framing : framing noun (EXPRESSION) : "the way that something is expressed, and the words that are chosen to do this" AI is in this definition right.,
+framing noun (EXPRESSION) : "the ideas and meanings that are connected with something when it is described or discussed, so that people understand it in a particular way" AI is half-right. It is wrongly connected at the beginning "Coinbase Stole Patented Blockchain Network Tech" but then correctly connected in the end, making this particular way at the end as not framing in favor of "Coinbase Stole", with the memory of the first impression being maybe inside this reader's subconsciousness. In this definition, articles/2475762 with official name Hailey Konnath framed the reader's consciousness to think that this is just a claim from a company, meanwhile attempting to frame the reader's subconsciousness.
+2026.05.11/https://thedecisionlab.com/reference-guide/psychology/the-first-impression-bias : " Lindgaard and colleagues found that participants reliably decided which homepages they liked and which they did not like within 50 milliseconds.  "..." More research needs to be conducted to examine how long these first impressions last  ", " physicians were likely basing their final diagnoses largely on the first pieces of information they learned about the patients  ",
+2026.05.11/https://www.academia.edu/534967/User_satisfaction_aesthetics_and_usability_Beyond_reductionism : "  Our concern with satisfaction arises from very robust findings in the 
+neurophysiological literature where researchers constantly find that 
+emotional responses are strikingly immediate, occurring within 3-4 
+milliseconds of a stimulus being shown (Bornstein, 1992; Zajonc, 1980). 
+Thus, according to this research, emotional responses are pre-attentive and 
+precede cognitive ones. The implications for web design are obvious and  pervasive" , " strength of the ‘first impression’, 
+characterized by what psychologists call a ‘primacy effect’, has long 
+featured very prominently in the psychological literature, (Anderson, 1981; 
+Anderson, 1982) even in areas involving expert judgement such as 
+diagnostic medicine (Lindgaard, 1985). Basically, judgments are  overwhelmingly based on the first impression.", "
+Twenty subjects, 10 males and 10 females, were recruited from around 
+the University Campus in a semi-random fashion, ensuring that English was 
+their first language, that they were regular Internet users (2-10hrs/week), and  that they had no UI design or evaluation experience.",
+2026.05.11/https://dictionary.cambridge.org/dictionary/english/framing :  framing noun (FOR CRIME): "the action of making a person seem to be guilty of a crime when they are not, by giving information that is not true" AI is in this definition wrong then about the headline and this article's content.
+
+Which dictionary does HT-AI use? Is the answer more complicated as to how HeliumTrades-AI learns English? HT-AI should express in a concise manner without possible misinterpretations and double meanings for communicating better about biases/the "character" and tendencies of certain sets of texts to the readers.
+
+Sincerely, Rejmer"
+;
 2024-07-07:web.archive.org is temporary offline:
 
 Rejmer
