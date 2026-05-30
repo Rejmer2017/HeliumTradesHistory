@@ -1,3 +1,35 @@
+"
+2025-05-30: Rejmer2017 0 <rejmer2017@gmail.com>
+12:02 (before 4 Minutes)
+an contact
+
+2025-05-30: Reconsidering determinism in current AI-model:
+Dear HeliumTrades-Team,
+
+Earlier, I heard that Anthropic Claude AI is used for HeliumTrades. I don't know the specifics nor which alternative to use, yet wanted to share a perspective regardless how consistent AI outputs.
+2026.05.30/https://findskill.ai/blog/consistent-ai-output-guide/#why-ai-output-varies-and-why-thats-usually-on-purpose : "When to Use Each Temperature
+Use 0-0.3 for:
+
+Data extraction
+Translations
+Code generation
+Classification tasks
+Anything requiring identical outputs
+Use 0.5-0.7 for:
+
+Writing (when you want it to sound human)
+Brainstorming (but with some consistency)
+General Q&A
+Most everyday use
+Use 0.8-1.0+ for:
+
+Creative writing
+Generating multiple alternatives
+Exploratory ideation
+When you explicitly want variety"
+I think that categorizing and describing biases belongs to " Classification tasks" and that "Claude uses balanced temperature." implies that the "randomness" is too high for describing biases and article-summary. Objectivity means non-arbitrary standard of correctness and that includes consistency. This can be also achived with " temperature control" or "Seed Values".
+
+Sincerely, Rejmer";
 “2026-05-11: About HT-AI, law360.com
  
 Rejmer2017 0 
