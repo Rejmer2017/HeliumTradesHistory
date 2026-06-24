@@ -1,3 +1,24 @@
+2026.06.24: No mail-title: About HeliunTrade's media-profile of moomoo.com: "Rejmer2017 0
+on contact
+before 10 hours
+Dear HeliumTrades-Team,
+
+At 2026.06.24/https://heliumtrades.com/media-bias/moomoo.com from "
+Bank Bradesco To Go Ex-Dividend On July 6th, 2026 With 0.00342 USD Special Dividend Per Share - Moomoo
+Bank Bradesco To Go Ex-Dividend On July 6th, 2026 With 0.00342 USD Special Dividend Per ShareMoomoo 
+
+moomoo.com     Jun 18, 2026"
+
+to "
+TRUE NORTH COMMERCIAL REAL EST INV To Go Ex-Dividend On June 30th, 2026 With 0.04073 USD Dividend Per Share - Moomoo
+TRUE NORTH COMMERCIAL REAL EST INV To Go Ex-Dividend On June 30th, 2026 With 0.04073 USD Dividend Per ShareMoomoo 
+
+moomoo.com     Jun 18, 2026", the links redirects to "https://www.moomoo.com/404".
+
+Even if web.archive-links are added, in Safari 15.6 with iOS 15.8, https://web.archive.org/web/20260624100914/https://www.moomoo.com/news/post/71688709/true-north-commercial-real-est-inv-to-go-ex-dividend, the header of Wayback Machine is dis- and reappearing and only a white page is shown.
+In Windows 10 with Chrome 138, the web.archive-page breaks and reloads, which could overwhelm or stagnate HT-AI when they can't distinguish when a webpage is broken and being exposed by a loading-loop.
+
+Sincerely, Rejmer";
 "2026-06-23:
 Dear HeliumTrades-Team,
 
