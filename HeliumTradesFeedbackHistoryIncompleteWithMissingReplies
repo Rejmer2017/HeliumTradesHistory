@@ -1,5 +1,106 @@
-“Re: (No Subject)
+2026-10-09: Feedback from others, newsbusters.org:
+Dear HeliumTrades-Team,
+As AI progresses towards AGI, more human comments like this mail will look be as outdated as Newtonian physics, being correct at a narrower context compared to quantum physics, which was how Leibniz perceived Newton's Law of Gravity.
 
+Feedback from others:
+
+
+2026.10.09/https://mcp.csdn.net/6a2e1b47662f9a54cb7e9239.html : " Question 6: Is Helium's option pricing model correct? Can I trade directly with its strategy?      Important statement :: Absolutely not. All data, analyses and strategies provided by Helium are for educational and research purposes only and in no way constitute any investment advice. Financial markets are extremely complex, and while my model incorporates multiple factors, it is still a simplified model based on historical data and specific assumptions that cannot predict the future. The actual transaction involves factors that cannot be covered by countless models such as transaction costs, slippage, liquidity risk, and black swan events.", "
+Question 7: Does the news bias scoring model have its own biases? 
+•	Honest answer. Any scoring model is based on training data and designer judgment, there must be some degree of "meta-bias".
+"; 
+
+2026.10.09/https://enterprisedna.co/directories/mcp/connerlambden-helium-mcp/ : "Pros      Wide source coverage with 5000+ news sources     Bias scoring and balanced synthesis help reduce echo chambers     Free tier available for testing and small-scale use  Cons      Very early project (6 GitHub stars) with limited community support     Requires an MCP client to integrate, adding a dependency     Only available as a JavaScript/Node.js server";
+
+Having the domain inside the bubble of the bias-chart of 2026.10.09/https://heliumtrades.com/media-bias/newsbusters.org/ seems unnecessary and distracting, especially at the black circle inside "newsbusters.org Oversimplification Bias". I like the "Hidden Assumptions", one-sentence-disclamer of why biases are assigned and the notice of "Automated analysis; not human reviewed.".
+Despite ads and a payment-request as "html body div#root div.css-1l8xllb form.GF-Form div#GF-Blocks.MuiStack-root.css-j7qwjs" inside 2026.10.09/https://newsbusters.org/blogs/nb/jorge-bonilla/2026/10/07/burying-story-nets-dance-around-obvious-chinese-birthright-farm , there's no Advertising-bias, yet HT-AI judges the extracted text, not the article's interface I guess. I wonder if a monetization, commercial, capitalist, money-bragging or profit <-> communal-bias-axes makes more sense here, since asking for payment and thinking economically right, which could happen, doesn't have to be an advertisement. Perhaps the "Liberal <—> Conservative , Anti-corporate <—> Pro-corporate" is already addressing the economical axes, but mixed. A person can be pro-capitalist, against corporatocracy and anti-tradition/pro-modern. In the literal sense, conservative could mean being pro-Status-quo and liberal means anti-Status-quo, yet the US-parties defines those two terms more likely here. A status-quo-conservative could preserve anti-establishment-elements like the 2026.10.09/www.reddit.com/r/legaladviceofftopic/comments/1fcitua/the_right_to_overthrow_the_government/ : "Merely advocating generally for violent overthrow is generally protected by the First Amendment, but there are laws prohibiting people who have done so from government service, and certain professions. It would also be easy for such advocacy to cross the line from abstract idea, to conspiracy to actually do it, which could be prosecuted. ", regular radical movements that are part of popular culture, products like the PinePhone that distances itself from the mainstream, government and corporations but is also part of the environment of how things are. Its Anti-Change <-> Pro-Change at any state of anything.
+
+"
+BURYING THE STORY: Nets Dance Around Obvious Chinese Birthright Farm 
+October 07, 2026
+": "
+Claim: The publisher endorses executive action to restrict birthright citizenship.
+“Now they look the other way at an obvious abuse that justifies the executive order to begin with.” · exact text match 
+Why: Supporting an executive order to end automatic birthright citizenship favors state authority over an individual birthright.
+" Now the " obvious " signals Overconfidence without backup/s as evidence/s and subjectivity, in which "   Objective <—> Subjective  "'s " Inspect evidence · 85% classification confidence " doesn't mention. Obvious to who and how? Writing " to begin with " is unnecessary, since when deleting that sentence-part, the statement would have the same meaning. So I assume that " to begin with " strengthens " justifies the executive order " subjectively and is more manipulative to the average human reader, I think.
+"
+Liberal <—> Conservative  
+Inspect evidence · 85% classification confidence 
+Claim: The publisher uses the case to support President Trump's executive order against birthright citizenship.
+“Now they look the other way at an obvious abuse that justifies the executive order to begin with.” · exact text match 
+Why: This sentence explicitly links the arrest story to a conservative policy goal and criticizes the media for ignoring that link.
+" And that's the kind of issue with the " Liberal <—> Conservative" definition, it depends in my opinion too much on a political individual leader that de facto represents a label, which could be changed with their personal beliefs and lesser on the ideas of that label like conservatism as in moderate traditionalism or status-quo-perserving. It shouldn't matter whether person X supports that issue or not, but the issue itself. Or renaming it into " Democratic Party <—> Republican Party". Whether the action of removing " birthright citizenship " is seen as birth-nationalist or culturally egalitarian depends on that target's belonging, which isn't stated at HT-AI, since their focus was on the party affiliation of that person making that order.
+Reducing bias-analysis to one sentence, if HT-AI actually does, costs less, yet ignores other statements that when interacting, might change the bias-score/s, which is more reliable than declaring that one grammatically single sentence defines biases. It's also reductive, since one single bias-bar can't respond to multiple separating sentences, yet I could be missing those examples.. I might be oversimplifying HT-AI, yet from the outlook, what HT-AI seems to do is to pick one sentence to one bias-axis.
+
+"
+Objective <—> Sensational  
+Inspect evidence · 80% classification confidence 
+Claim: The title-style framing uses dramatic language to present a buried scandal.
+“BURYING THE STORY: Nets Dance Around Obvious Chinese Birthright Farm.” · exact text match 
+Why: The phrase 'BURYING THE STORY' and 'obvious...farm' sensationalizes the case.
+" HT-AI acknowledges " obvious " as opposite of "Objective" and utilizes on " ... ", so it could analyze separate sentences beyond grammar and textual distance, it just chooses not do sometimes. Instead of a "  Objective <—> Sensational  " and " Objective <—> Subjective ", it would be more coherent to agree on one antonym like "  Subjective " or making them separate bias-bars for coherency, which isn't analyzed there too, which I suggested earlier to make a "Confidence"-score, which was at the "Overconfidence"-bias-suggestion-mail. Basically the more "no data"-input is send at article-bias-analysis like the "  Uncredible <—> Credible  ", which the HT-AI could logically infer from the other biases with lower confidence and consideration of contexts.
+
+"
+Libertarian <—> Authoritarian  
+Inspect evidence · 65% classification confidence 
+Claim: The publisher endorses executive action to restrict birthright citizenship.
+“Now they look the other way at an obvious abuse that justifies the executive order to begin with.” · exact text match 
+Why: Supporting an executive order to end automatic birthright citizenship favors state authority over an individual birthright.
+" The anarcho-syndicalists who sees voting as justifying state authority and citizenship as ownership from the state and Boris Johnson coming from a libertarian-capitalist perspective would be supportive to hear that fewer people get citizenship. 2026.10.09/https://dash.harvard.edu/server/api/core/bitstreams/0ed5f085-0a96-4fea-b268-f6d2fc1102db/content : "Richard Ford Hamm III A Thesis in the Field of Government for the Degree of Master of Liberal Arts in Extension Studies", "The act of renouncing citizenship is the final commitment away from the United States. Examining this avoids counting people who travel abroad for work but still feel connected to the United States. Just because an individual lives overseas does not make them no longer a citizen; they can still vote, pay taxes, and, for all intents and purposes, uphold the social contract. Therefore, only those who have renounced their citizenship should be counted as affirming the exit clause", "Systemic political dissatisfaction is one reason individuals may choose to opt out of the social contract. As a phenomenon this has been well-studied both inside and outside the United States (Cebula & Paul, 2002; Holmes & Manning, 2013; Kanji & Tannahill, 2017). ", "The majority of renunciation cases are for tax purposes, as individuals living abroad but still maintaining U.S. citizenship have certain tax obligations to the United States (Denson, 2015; Mercado, 2020; Woolley, 2017; Worster, 2017). In the past few years, the number of renunciations has increased in lock step with changes to the tax code that disadvantage U.S. citizens abroad; as a result, the overall number of renunciations has increased every year since 2014 (Woolley, 2017). A new law that sought to increase reporting obligations and close loopholes regarding foreign accounts, the Foreign Account Tax Compliance Act, was passed that year that may be responsible for some of the increase (Denson, 2015). Still, there are documented cases, both in the U.S. and abroad of individuals renouncing their citizenship for political reasons. Most of the cases that are reported are of activists or celebrities, but these still give insight into why a person might leave their country on supposed political grounds."
+My point is ending birthright citizenship itself doesnt mean that it favors more state authority. What it also does is making people rebel, feeling less binding with the state authority, being less obligated to be loyal and paying no US taxes based on citizenship as far as I know. Also the " Claim: The publisher endorses executive action to restrict birthright citizenship. " and " Supporting an executive order to end automatic birthright citizenship " sounds different. In one, its abolishment, the second, is mere moderation.
+
+" Begging the Question " already addressed the usage of "obvious" itself in "
+Claim: The article presupposes that the surrogacy arrangement was a birthright-citizenship scheme.
+“The media tiptoed around this obvious Chinese birthright citizenship farm as if they were traversing a minefield.” · exact text match 
+Why: Calling it an 'obvious...birthright citizenship farm' assumes the conclusion the piece is trying to establish.
+" yet doesn't cite the other sentences with " obvious " in it.
+
+"
+Claim: The piece ties the criminal case to the birthright-citizenship political debate.
+“Now they look the other way at an obvious abuse that justifies the executive order to begin with.” · exact text match 
+Why: It connects a California child-abuse case to a presidential executive-order dispute.
+" This topic "Birthright" is political, since it is a law inside the political institution called the government.
+
+"
+Oversimplification 
+Inspect evidence · 70% classification confidence 
+Claim: The article compresses a complex case into one political motive and a media cover-up.
+“The media tiptoed around this obvious Chinese birthright citizenship farm as if they were traversing a minefield.” · exact text match 
+Why: A child-welfare/surrogacy case is reduced to an 'obvious birthright citizenship farm' avoided by journalists.
+" Why: A case with many unknown factors and higher effort to compute is wrongly represented as a simple case with the "obvious" and a simply associative term for the average human such as "farm" attached to a single political issue.* or something more accurate in that direction. The more tokens/neurons are needed to be fired from a task to complete, the harder that task is. In relation to how much the article-writer underestimates that task, the more over-simplifying the writer represent.
+"
+Ideological 
+Inspect evidence · 75% classification confidence 
+Claim: The piece interprets events through a pre-existing conservative political narrative.
+“It wasn’t that long ago that the networks caterwauled when President Trump signed an executive order going after birthright citizenship, and instinctively hailed the recent Supreme Court ruling against the executive order as a “defeat” for Trump.” · exact text match 
+Why: The article judges coverage and events according to a Trump/birthright-citizenship narrative.
+" " instinctively hailed " and " “defeat” for Trump. " could also belong to the emotional-biases too.
+
+"
+ Rational <—> Irrational  
+Inspect evidence · 60% classification confidence 
+Claim: The publisher presents an inferred citizenship scheme as an obvious fact.
+“The media tiptoed around this obvious Chinese birthright citizenship farm as if they were traversing a minefield.” · exact text match 
+Why: It treats the unproven 'birthright citizenship farm' as self-evident rather than a hypothesis, although the piece also quotes factual reports.
+" also addreses the "obvious"-term.
+"
+Speculation 
+Inspect evidence · 70% classification confidence 
+Claim: The publisher speculates about an unproven citizenship scheme.
+“Did no one see the very obvious red flag- 21 kids, born by surrogates, living in a giant mansion and instructed by nannies?” · exact text match 
+Why: The rhetorical question infers an illicit purpose from the visible circumstances without direct evidence.
+" If the circumstances were really visible, but since HT-AI addressed this statement as a rhetorical question and "Manipulative Inspect evidence · 65% classification confidence ", the chance is higher that those circumstances never were or are barely visible, since he made this claim up, inferring from irrational-bias and manipulative-bias. It's supposedly visible. The HT-AI phrased it wrong.
+" 
+ Manipulative 
+Inspect evidence · 65% classification confidence 
+Claim: The article uses loaded labels and alarmist framing.
+“BURYING THE STORY: Nets Dance Around Obvious Chinese Birthright Farm.” · exact text match 
+Why: Phrases like 'BURYING THE STORY' and 'obvious...farm' frame the reader's response before evidence is weighed.
+" "obvious"-term is addressed. So are different phases with " Phrases like " addressed without showing the raw data of which exact article-texts HeliumTrades-AI saw and classified here.
+Are the web.archive.org-links removed because web.archive.org crashed so often? As an alternative when possible and desirable, make an automatic process write inside the article-bias-analysis the crawl-date and maybe the UTC-time of when the HT-bots fetched a webpage to be subject of bias-analysis because of the possibility of article-version-patches and ghost-edits.
+Sincerely, Rejmer
+“Re: (No Subject)
+Posteingang
  
 Conner Productions <conner@connerpro.com> 
 	Fr., 10. July, 14:06		
@@ -55,7 +156,7 @@ Sincerely, Rejmer
  
 Conner Productions <conner@connerpro.com> 
 	Do., 23. July, 17:20		
-an mich
+on me
  
 	
 Hi Rejmer,
@@ -65,8 +166,8 @@ Just made huge improvements to the news bias analysis based partly on your feedb
 Thanks,
  
 Conner Productions 
-	Mo., 5. Okt., 15:30		
-an mich
+	Mo., 5. Okt., 15:30 (vor 4 Tagen)		
+on me
  
 	
 Hi Rejmer, BIG updates to the Helium news bias analysis + news feed.
@@ -109,7 +210,7 @@ Sincerely, Rejmer
 “ 
 Conner Productions <conner@connerpro.com> 
 	Mi., 3. Juni, 15:55		
-an mich
+on me
  
 	
 Dear Rejmer,
@@ -151,7 +252,7 @@ Sincerly, Rejmer
 ”, “ 
 Conner Productions <conner@connerpro.com> 
 	08.07.2026, 16:28		
-an mich
+on me
  
 	
 Hi Rejmer,
@@ -462,7 +563,7 @@ UCqdOvfSmM2NKRNE0FSbATuw 0.800 C 0.900";
 UCu0Gn50PSjozOgwgPVTBB4A 0.900 C 0.500", archive.fo/2024.12.13/https://mediabiasfactcheck.com/wlos-abc13news/ : Right-center "Overall, we rate WLOS (ABS13News) Right-Center Biased based on editorial positions that slightly favor the right. We also rate them High for factual reporting due to proper sourcing and a clean fact check record.
 ", archive.fo/2024.12.13/https://en.wikipedia.org/wiki/WLOS#cite_note-60 : "Sinclair ownership" > archive.fo/2024.12.13/https://wlos.com/news/local/rescan-required-for-over-the-air-viewers-on-sept-20 : "Updated Mon, September 20th 2021 at 12:24 PM": "My40 will move to channel 14 for Charter cable customers.", archive.fo/2024.12.13/https://usadomainhub.com/fox28media.com/ : "Wlos.com
 Wlos.com
-DA: 8 PA: 50 MOZ Rank: 45", archive.fo/2024.12.13/https://tvstations.fandom.com/wiki/WLOS : "WLOS, virtual and VHF digital channel 13, is an ABC-affiliated television station licensed to Asheville, North Carolina, United States, serving Western North Carolina and Upstate South Carolina. The station is owned by the Sinclair Broadcast Group, which also operates Anderson, South Carolina-licensed MyNetworkTV affiliate WMYA-TV (channel 40) under a local marketing agreement with owner Cunningham Broadcasting. However, Sinclair effectively owns WMYA as the majority of Cunningham's stock is owned by the family of deceased group founder Julian Smith.[1][2]" ; 
+DA: 8 PA: 50 MOZ Rank: 45", archive.fo/2024.12.13/https://tvstations.fandom.com/wiki/WLOS : "WLOS, virtual and VHF digital channel 13, is an ABC-affiliated television station licensed to Asheville, North Carolina, United States, serving Western North Carolina and Upstate South Carolina. The station is owned by the Sinclair Broadcast Group, which also operates Anderson, South Carolina-licensed MyNetworkTV affiliate WMYA-TV (channel 40) under a local marketing agreement with owner Cunningham Broadcasting. However, Sinclair effectively owns WMYA as the majority of Cunningham's stock is owned by the family of deceased group founder Julyan Smith.[1][2]" ; 
 "Invesco,Mainstream News,UCQ-uHE6_ow1KHvE0GpqMtyw,C,0.9,C,Mainstream News,,0.9,sam,2020-10-06T00:00:00.0000000Z"+"UCQ-uHE6_ow1KHvE0GpqMtyw 0.900 Mainstream News 1.0
 UCQ-uHE6_ow1KHvE0GpqMtyw 0.900 C 0.800"; 
 "KSBW Action News 8,Mainstream News,UCwPzlQU2MqEQJWgqM_0VFKQ,C,0.95,C,Mainstream News,,0.95,sam,2020-10-06T00:00:00.0000000Z"+"UCwPzlQU2MqEQJWgqM_0VFKQ 0.950 Mainstream News 1.0
@@ -694,7 +795,7 @@ Sincerely, Rejmer,
 “
 Conner Productions <conner@connerpro.com>
 	2024-05-20, 20:57		
-an mich
+on me
  
 	
 Thanks Rejmer,
@@ -1766,7 +1867,7 @@ Sincerely, Rejmer,
 Reply: “
 Conner Productions <conner@connerpro.com>
 	30.04.2024, 19:31		
-an mich
+on me
  
 	
 Thanks Rejmer,
@@ -2789,7 +2890,7 @@ Sincerely, Rejmer”
 < Reply:”  
 Conner Productions <conner@connerpro.com> 
 	Mi., 17. Apr. 2024, 02:51		
-an mich
+on me
  
 	
 Regarding vision, for Helium stories (e.g https://heliumtrades.com/balanced-news/Microsoft-achieves-quantum-computing-error-correction-milestone) Helium AI is using vision on the displayed images to help inform the story.
@@ -3101,7 +3202,7 @@ Sincerely, Rejmer;
 
  
 Rejmer2017 0 <rejmer2017@gmail.com>
-	So., 7. Juli 2024, 16:21		
+	So., 7. July 2024, 16:21		
 an contact
  
 	
@@ -3126,8 +3227,8 @@ How is it possible to see the Milky Way galaxy?
 Sincerely, Rejmer
  
 Conner Productions <conner@connerpro.com>
-	Mo., 8. Juli 2024, 02:32		
-an mich
+	Mo., 8. July 2024, 02:32		
+on me
  
 	
 Thanks Rejmer,
@@ -3137,7 +3238,7 @@ Previously I wan only looking for <p> text</p> but going forward am including he
 Conner
  
 Rejmer2017 0 <rejmer2017@gmail.com>
-	Mo., 8. Juli 2024, 13:07		
+	Mo., 8. July 2024, 13:07		
 an Conner
  
 	
@@ -3148,8 +3249,8 @@ It works now.
 Sincerely, Rejmer
  
 Conner Productions <conner@connerpro.com>
-	Mo., 8. Juli 2024, 15:23		
-an mich
+	Mo., 8. July 2024, 15:23		
+on me
  
 	
 Thanks Rejmer,
@@ -3160,7 +3261,7 @@ Conner
  
 Conner Productions <conner@connerpro.com>
 	Di., 9. Sept. 2025, 18:37		
-an mich
+on me
  
 	
 Hi Rejmer,
@@ -3203,7 +3304,7 @@ SIncerely, Rejmer
  
 Conner Productions <conner@connerpro.com>
 	Mo., 15. Sept. 2025, 15:04		
-an mich
+on me
  
 	
 Thanks Rejmer,
@@ -3214,7 +3315,7 @@ Conner
  
 Conner Productions <conner@connerpro.com>
 	Fr., 20. März, 22:53		
-an mich
+on me
  
 	
 Hey Rejmer,
@@ -3248,7 +3349,7 @@ Sincerely, Rejmer
  
 Conner Productions
 	Di., 14. Apr., 21:43		
-an mich
+on me
  
 	
 Hi Rejmer,
@@ -3816,7 +3917,7 @@ Sincerely, Rejmer
  
 Conner Productions <conner@connerpro.com>
 	20.03.2024, 04:53		
-an mich
+on me
  
 	
 Thanks Rejmer,
@@ -6255,7 +6356,7 @@ Sincerely, Rejmer
  
 Conner Productions <conner@connerpro.com>
 	Mo., 18. Dez. 2023, 20:19		
-an mich
+on me
  
 	
 Hi Rejmer,
@@ -6301,7 +6402,7 @@ Sincerely, Rejmer
  
 Conner Productions <conner@connerpro.com>
 	Mi., 13. Dez. 2023, 06:51		
-an mich
+on me
  
 	
 Hi Rejmer,
@@ -6590,7 +6691,7 @@ In heliumtrades.com/sources Vanity Fair, it redirects to a broken https://helium
  
 Conner Productions <conner@connerpro.com>
 	Mo., 28. Aug. 2023, 16:22		
-an mich
+on me
  
 	
 Hi Rejmer,
@@ -6612,14 +6713,14 @@ Sincerely, Rejmer
  
 Conner Productions <conner@connerpro.com>
 	Mi., 6. Sept. 2023, 16:02		
-an mich
+on me
  
 	
 Yes, sources with less than a certain number of articles per month will automatically get deleted.
  
 Conner Productions <conner@connerpro.com>
 	Do., 26. Okt. 2023, 00:59		
-an mich
+on me
  
 	
 Hi Rejmer,
@@ -7814,7 +7915,7 @@ Jacinda Ardern proved the power of female leadership
  
 Conner Productions <conner@connerpro.com>
 	25.01.2023, 20:40		
-an mich
+on me
  
 	
 Hi Rejmer,
@@ -8816,7 +8917,7 @@ https://fylladey.com/?s=Console+Game+Market+2023+Top+Trends+with+Insights+on+Key
  
 Conner Productions <conner@connerpro.com>
 	17.05.2023, 17:51		
-an mich, contact@email.heliumtrades.com
+on me, contact@email.heliumtrades.com
  
 	
 Hi Rejmer,
@@ -8928,7 +9029,7 @@ Am Samstag, 14. Januar 2023 schrieb Rejmer2017 0 <rejmer2017@gmail.com>:
  
 Conner Productions <conner@connerpro.com>
 	19.05.2023, 23:01		
-an mich, contact@email.heliumtrades.com
+on me, contact@email.heliumtrades.com
  
 	
 Hi Rejmer,
@@ -8949,7 +9050,7 @@ Conner
  
 Conner Productions <conner@connerpro.com>
 	19.05.2023, 23:08		
-an mich, contact@email.heliumtrades.com
+on me, contact@email.heliumtrades.com
  
 	
 Yeah looks like AI is not pulling descriptions well for this source… Bias is calculated from title, description, and page body (which Helium users cannot see)
@@ -9017,7 +9118,7 @@ Sincerely Rejmer
  
 Conner Productions <conner@connerpro.com>
 	15.06.2023, 17:22		
-an mich
+on me
  
 	
 Hi Rejmer,
@@ -9118,7 +9219,7 @@ Sincerely, Rejmer
  
 Conner Productions <conner@connerpro.com>
 	So., 12. Feb. 2023, 04:18		
-an mich, contact
+on me, contact
  
 	
 https://heliumtrades.com/media-bias/wikipedia
@@ -9159,7 +9260,7 @@ Sincerely, Rejmer
  
 Conner Productions <conner@connerpro.com>
 	Mi., 22. März 2023, 16:08		
-an mich
+on me
  
 	
 Hi Rejmer,
@@ -9182,7 +9283,7 @@ Sincerely, Rejmer
  
 Conner Productions <conner@connerpro.com>
 	Mo., 27. Feb. 2023, 19:35		
-an mich
+on me
  
 	
 Hi Rejmer,
@@ -9487,7 +9588,7 @@ Sincerely, Rejmer
  
 Conner Productions <conner@connerpro.com>
 	Mi., 1. Feb. 2023, 18:59		
-an mich
+on me
  
 	
 Hi Rejmer,
@@ -9778,7 +9879,7 @@ eTools.ch found no "Most Opinionated Articles" and "Most Sensational Articles" i
  
 Conner Productions <conner@connerpro.com>
 	Fr., 13. Jan. 2023, 21:41		
-an mich
+on me
  
 	
 Hi Rejmer,
@@ -9977,7 +10078,7 @@ Also https://web.archive.org/web/https://heliumtrades.com/media-bias/prweb.com h
  
 Conner Productions <conner@connerpro.com>
 	Sa., 7. Jan. 2023, 00:46		
-an mich
+on me
  
 	
 Hi Rejmer,
